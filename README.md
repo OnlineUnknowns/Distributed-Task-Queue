@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=⚡+GoTaskQ;Distributed+Task+Queue+in+Go;Production+Grade+%7C+Staff+Level" alt="GoTaskQ" />
 
 <br/>
 
